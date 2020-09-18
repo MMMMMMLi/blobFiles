@@ -1,16 +1,17 @@
 ---
 title: 使用Hexo和Butterfly搭建个人博客
-date: 2020-08-25 10:33:47
-updated: 2020-08-27 15:08:08
 tags:
-- Hexo
-- Blob
+  - Hexo
+  - Blob
 categories:
-- Hexo
+  - Hexo
 keywords:
-- Hexo,搭建笔记
+  - 'Hexo,搭建笔记'
 description: 记录一下如何使用Hexo和Butterfly搭建的个人博客。
 cover: /img/post/zhenhunjie.jpg
+abbrlink: 23840
+date: 2020-08-25 10:33:47
+updated: 2020-08-27 15:08:08
 ---
 
 ## 序言
